@@ -1,0 +1,25 @@
+.root {
+--color-fone: rgb(245, 241, 140);
+}
+
+body {
+    background-color: var(--color-fone);
+}
+
+
+ul {
+ 
+    list-style-type: none;
+    
+}
+.tageline {
+    text-align: center;
+}
+.list {
+       display: flex;
+        justify-content: center;
+        gap: 50%;
+}
+.description {
+    text-align: center;
+}
